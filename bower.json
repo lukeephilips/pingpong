@@ -1,0 +1,21 @@
+{
+  "name": "ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Luke <luke.e.philips@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lukeephilips/Portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
